@@ -1,4 +1,9 @@
-### Hi there 👋
+### Alexander Resch
+
+I am a software developer, currently working full-time in the AI department at Jedox GmbH in Freiburg.
+
+
+
 
 <!--
 **TheNamesAlex/TheNamesAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
