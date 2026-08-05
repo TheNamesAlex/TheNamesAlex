@@ -2,7 +2,7 @@
 
 **Software Engineer · Engineering Lead, AI** @ [Jedox](https://jedox.com)
 
-I work on Python backends, Kubernetes, and AI infrastructure. I'm obsessed with simplicity and unblocking teammates - part engineer, part engineering manager. Help shape architecture, mentor on patterns, and remove friction so the team moves fast.
+I work on Python backends, Kubernetes, and AI infrastructure. I'm mostly about simplicity and unblocking teammates - part engineer, part engineering manager, part engineering lead. Help shape architecture, mentor on patterns, and remove friction so the team moves fast.
 
 ### Currently
 
@@ -12,9 +12,10 @@ I work on Python backends, Kubernetes, and AI infrastructure. I'm obsessed with 
 
 ### Previously
 
-- **Product Manager** — Industrial robotics vision systems
-- **Freelance Consultant** — Business Intelligence
-- **Instructor** — Applied Optimization  Techniques [DHBW](https://www.dhbw.de/) & Modeling and System Identification[University of Freiburg](https://www.uni-freiburg.de/) (I love teaching and sharing knowledge)
+- **Product Manager** - Industrial robotics vision systems
+- **Freelance Consultant** - Business Intelligence
+- **Instructor** - Applied Optimization Techniques [DHBW](https://www.dhbw.de/) & Modeling and System Identification [University of Freiburg](https://www.uni-freiburg.de/) (I love teaching and sharing knowledge)
+- **Examiner** - B.Sc. graduation examiner for Business Informatics (Data Science and AI) at [DHBW](https://www.dhbw.de/)
 
 ### Beyond Code
 
@@ -23,4 +24,3 @@ I'm passionate about teaching and helping others level up. When I'm not coding, 
 ---
 
 **Freiburg, Germany** · [LinkedIn](https://www.linkedin.com/in/alexander-resch-768253132/) 
-
