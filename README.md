@@ -19,7 +19,7 @@ I work on Python backends, Kubernetes, and AI infrastructure. I'm mostly about s
 
 ### Beyond Code
 
-I'm passionate about teaching and helping others level up. When I'm not coding, you'll find me gaming (currently into STS2, some BF6), working out, playing the guitar, or hanging out with my lovely GF and our two cats.
+I'm passionate about teaching and helping others level up. When I'm not coding, you'll find me gaming (currently into STS2, some BF6), playing some board games, working out, playing the guitar, or hanging out with my two cats Emmy and Schroedinger.
 
 ---
 
